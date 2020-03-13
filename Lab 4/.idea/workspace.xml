@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32042d95-ee96-4395-aa64-168ff0b2025e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="122" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RR8RWEjPKFsYJVpCRWfcenbwI6" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FoodServicesCardTest">
+    <configuration name="FoodServicesCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FoodServicesCardStarter" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cs.cpsc210.servicecard.model.FoodServicesCard" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.ubc.cs.cpsc210.servicecard.tests" />
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cs.cpsc210.servicecard.tests.FoodServicesCardTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodServicesCardTest.makePurchaseNotEnoughMoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FoodServicesCardStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cs.cpsc210.servicecard.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.ubc.cs.cpsc210.servicecard.tests" />
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cs.cpsc210.servicecard.tests.FoodServicesCardTest" />
+      <option name="METHOD_NAME" value="makePurchaseNotEnoughMoneyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FoodServicesCardTest" />
+      <item itemvalue="JUnit.FoodServicesCardTest.makePurchaseNotEnoughMoneyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FoodServicesCardTest" />
+        <item itemvalue="JUnit.FoodServicesCardTest.makePurchaseNotEnoughMoneyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32042d95-ee96-4395-aa64-168ff0b2025e" name="Default Changelist" comment="" />
+      <created>1569618539455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569618539455</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Implemented and test FoodServiceCard">
+      <created>1569626527644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569626527644</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented and test FoodServiceCard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented and test FoodServiceCard" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FoodServicesCardLecLabStarter$FoodServicesCardTest.ic" NAME="FoodServicesCardTest Coverage Results" MODIFIED="1569625906634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ca.ubc.cs.cpsc210.servicecard.model.FoodServicesCard</FILTER>
+    </SUITE>
+  </component>
+</project>

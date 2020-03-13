@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="279985b5-3863-44f9-a586-d846f44c4d42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/ca/ubc/cpsc210/paddleball/model/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ca/ubc/cpsc210/paddleball/model/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ca/ubc/cpsc210/paddleball/ui/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ca/ubc/cpsc210/paddleball/ui/GamePanel.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RFfsHVxoyqy6gpdu0rOWUqwjEg" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestPaddle">
+    <configuration name="PaddleBallFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cpsc210.paddleball.ui.PaddleBallFrame" />
+      <module name="PaddleBall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cpsc210.paddleball.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PaddleBall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cpsc210.paddleball.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.ubc.cpsc210.paddleball.test" />
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cpsc210.paddleball.test.TestBall" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PaddleBall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cpsc210.paddleball.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.ubc.cpsc210.paddleball.test" />
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cpsc210.paddleball.test.TestGame" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPaddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PaddleBall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cpsc210.paddleball.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.ubc.cpsc210.paddleball.test" />
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cpsc210.paddleball.test.TestPaddle" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPaddle" />
+        <item itemvalue="JUnit.TestGame" />
+        <item itemvalue="JUnit.TestBall" />
+        <item itemvalue="Application.PaddleBallFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279985b5-3863-44f9-a586-d846f44c4d42" name="Default Changelist" comment="" />
+      <created>1569267969587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569267969587</updated>
+    </task>
+    <task id="LOCAL-00001" summary="refactored variable names and ensured code followed Checkstyle CPSC 210">
+      <created>1569271866461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569271866461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactored variable names and ensured code followed Checkstyle CPSC 210" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored variable names and ensured code followed Checkstyle CPSC 210" />
+  </component>
+</project>
